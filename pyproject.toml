@@ -12,6 +12,7 @@ dependencies = [
     "jupyter",
     "nannyml",
     "pandas",
+    "ruff>=0.17.6",
     "scikit-learn",
     "sentence-transformers",
     "transformers[torch]",
